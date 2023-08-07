@@ -1,4 +1,13 @@
 {
+  "login": {
+    "code": 200,
+    "data": {
+      "id": 123,
+      "name": "Alex",
+      "email": "alex@example.com",
+      "token": "1234567890abcdef"
+    }
+  },
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
