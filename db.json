@@ -7,7 +7,7 @@
       "token": "1234567890abcdef"
     }
   },
-  "user": {
+  "info": {
     "code": 0,
     "data": {
       "id": 1,
