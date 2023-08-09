@@ -4,6 +4,7 @@
     "data": {
       "id": 1,
       "email": "alex@example.com",
+      "role": "admin",
       "token": "1234567890abcdef"
     }
   },
